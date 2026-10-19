@@ -1,0 +1,4 @@
+# Links 
+
+- [twinkleplop](https://twinkleplop.pngwn.at) - A pretty fast and powerful syntax highlighter. see [benchmarks](https://twinkleplop.pngwn.at/docs/benchmarks) for performance comparisons.
+- [glyphcss](https://glyphcss.com) - Turn 3D models into ascii art, rendered as text in a single `pre`. No WebGL. No `canvas`. Inspect, hover, and click every cell.
